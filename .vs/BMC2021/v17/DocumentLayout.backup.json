@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\orderscs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:orderscs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\orderscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:orderscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\orderscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:orderscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Apps\\Software\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\bmc2021.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:bmc2021.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\bmc2021.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:bmc2021.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\maindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:maindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\r4m09\\AppData\\Local\\Temp\\.vsdbgsrc\\f72f3a78b341386fac1b8e9409b5f5cc43c0d615be69dc5e67b66298f0a65c1b\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\r4m09\\AppData\\Local\\Temp\\.vsdbgsrc\\f69e94888c22b1406fc9333e983afe40141618d56d7598db7c36b42c444e6c63\\NativeWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\salesmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:salesmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\salesmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:salesmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\finance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:finance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\model1.edmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:model1.edmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\model2.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:model2.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\bprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:bprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\properties\\settings.settings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:properties\\settings.settings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\posdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:posdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\splashscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:splashscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|c:\\users\\r4m09\\documents\\work\\github\\bmc2021\\splashscreen.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E347FF32-E110-4EC4-886F-7D35E3D473C8}|BMC2021.csproj|solutionrelative:splashscreen.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orderscs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Orderscs.cs",
+              "RelativeDocumentMoniker": "Orderscs.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Orderscs.cs [Design]",
+              "RelativeToolTip": "Orderscs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:24:35.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SplashScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "SplashScreen.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SplashScreen.cs [Design]",
+              "RelativeToolTip": "SplashScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:06:17.445Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BMC2021",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\BMC2021.csproj",
+              "RelativeDocumentMoniker": "BMC2021.csproj",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\BMC2021.csproj",
+              "RelativeToolTip": "BMC2021.csproj",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwEwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T05:46:43.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainDash.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\MainDash.cs",
+              "RelativeDocumentMoniker": "MainDash.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\MainDash.cs",
+              "RelativeToolTip": "MainDash.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwIYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:44:43.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Apps\\Software\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Apps\\Software\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAPkUAAAAAAAAAAAQwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-22T07:30:16.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orderscs.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Orderscs.cs",
+              "RelativeDocumentMoniker": "Orderscs.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Orderscs.cs",
+              "RelativeToolTip": "Orderscs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEABAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:13:36.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "POS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\POS.cs",
+              "RelativeDocumentMoniker": "POS.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\POS.cs [Design]",
+              "RelativeToolTip": "POS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:24:05.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orderscs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Orderscs.Designer.cs",
+              "RelativeDocumentMoniker": "Orderscs.Designer.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Orderscs.Designer.cs",
+              "RelativeToolTip": "Orderscs.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:08:22.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "POSDBDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\POSDBDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "POSDBDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\POSDBDataSet.Designer.cs",
+              "RelativeToolTip": "POSDBDataSet.Designer.cs",
+              "ViewState": "AgIAAO8DAAAAAAAAAAAEwAoEAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:38:47.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BMC2021",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\BMC2021.csproj",
+              "RelativeDocumentMoniker": "BMC2021.csproj",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\BMC2021.csproj",
+              "RelativeToolTip": "BMC2021.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T05:43:28.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesMonitoring.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SalesMonitoring.cs",
+              "RelativeDocumentMoniker": "SalesMonitoring.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SalesMonitoring.cs [Design]",
+              "RelativeToolTip": "SalesMonitoring.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:31:26.513Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:42:47.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NativeWindow.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\AppData\\Local\\Temp\\.vsdbgsrc\\f69e94888c22b1406fc9333e983afe40141618d56d7598db7c36b42c444e6c63\\NativeWindow.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f69e94888c22b1406fc9333e983afe40141618d56d7598db7c36b42c444e6c63\\NativeWindow.cs",
+              "ToolTip": "C:\\Users\\r4m09\\AppData\\Local\\Temp\\.vsdbgsrc\\f69e94888c22b1406fc9333e983afe40141618d56d7598db7c36b42c444e6c63\\NativeWindow.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f69e94888c22b1406fc9333e983afe40141618d56d7598db7c36b42c444e6c63\\NativeWindow.cs [Read Only]",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAlwG0BAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:05:09.579Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\AppData\\Local\\Temp\\.vsdbgsrc\\f72f3a78b341386fac1b8e9409b5f5cc43c0d615be69dc5e67b66298f0a65c1b\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f72f3a78b341386fac1b8e9409b5f5cc43c0d615be69dc5e67b66298f0a65c1b\\Application.cs",
+              "ToolTip": "C:\\Users\\r4m09\\AppData\\Local\\Temp\\.vsdbgsrc\\f72f3a78b341386fac1b8e9409b5f5cc43c0d615be69dc5e67b66298f0a65c1b\\Application.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f72f3a78b341386fac1b8e9409b5f5cc43c0d615be69dc5e67b66298f0a65c1b\\Application.cs [Read Only]",
+              "ViewState": "AgIAANYAAAAAAAAAAAAlwOsAAAAIAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:05:12.541Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalesMonitoring.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SalesMonitoring.cs",
+              "RelativeDocumentMoniker": "SalesMonitoring.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SalesMonitoring.cs",
+              "RelativeToolTip": "SalesMonitoring.cs",
+              "ViewState": "AgIAACgCAAAAAAAAAAAlwD0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:31:43.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Model1.Context.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Model1.Context.cs",
+              "RelativeToolTip": "Model1.Context.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:51:30.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Finance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Finance.cs",
+              "RelativeDocumentMoniker": "Finance.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Finance.cs [Design]",
+              "RelativeToolTip": "Finance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:23:11.963Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "ChangePassword.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\ChangePassword.cs [Design]",
+              "RelativeToolTip": "ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:23:04.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Model1.edmx",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Model1.edmx",
+              "RelativeToolTip": "Model1.edmx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-07-26T06:09:15.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bprofile.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\bprofile.cs",
+              "RelativeDocumentMoniker": "bprofile.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\bprofile.cs",
+              "RelativeToolTip": "bprofile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:04:39.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model2.Context.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Model2.Context.cs",
+              "RelativeDocumentMoniker": "Model2.Context.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Model2.Context.cs",
+              "RelativeToolTip": "Model2.Context.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:17:46.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:52:33.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-07-26T05:52:49.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAcwJQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-26T05:04:06.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SplashScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SplashScreen.Designer.cs",
+              "RelativeDocumentMoniker": "SplashScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SplashScreen.Designer.cs",
+              "RelativeToolTip": "SplashScreen.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:32:38.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "DGVPrinter.cs",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\DGVPrinter.cs",
+              "RelativeToolTip": "DGVPrinter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwPoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:05:07.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-26T04:58:02.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SplashScreen.resx",
+              "DocumentMoniker": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SplashScreen.resx",
+              "RelativeDocumentMoniker": "SplashScreen.resx",
+              "ToolTip": "C:\\Users\\r4m09\\Documents\\Work\\GitHub\\BMC2021\\SplashScreen.resx",
+              "RelativeToolTip": "SplashScreen.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-22T08:33:15.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAcwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-22T07:18:01.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
